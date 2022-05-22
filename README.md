@@ -1,10 +1,3 @@
-# Interactive Katacoda Scenarios
+## This report for the noSQL lab in which we use Spark SQL to query data from a "stocks" dataset
 
-[![](http://shields.katacoda.com/katacoda/sbardaoui/count.svg)](https://www.katacoda.com/sbardaoui "Get your profile on Katacoda.com")
-
-Visit https://www.katacoda.com/sbardaoui to view the profile and interactive scenarios
-
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
-
-For examples, visit https://github.com/katacoda/scenario-example
+#installing procedure
